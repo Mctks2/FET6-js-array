@@ -26,10 +26,8 @@ body {
   margin: 15px 15px;
 }
 
-
-
 .banner {
-  background-image: url('/src/images/Banner-1.png');
+  background-image: url('/imagens/Banner-1.png');
   background-repeat: no-repeat;
   background-size: cover;
   height: 278px;
